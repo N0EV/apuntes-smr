@@ -1,4 +1,12 @@
-# apuntes-smr
+```txt
+ ________  _________ 
+/  ___|  \/  || ___ \
+\ `--.| .  . || |_/ /
+ `--. \ |\/| ||    / 
+/\__/ / |  | || |\ \ 
+\____/\_|  |_/\_| \_|                  
+````
+# Apuntes-smr
 Apuntes del Ciclo formativo de grado medio de sistemas microinformaticos y redes.
 
 ## Cursos
